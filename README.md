@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SanielSchmidt
-- 🌱 I'm currently learning how to use artificial intelligence in practice by working on a project.
-- 📫 How to reach me: saniel-simon@outook.de
+- 👋 Hi, I’m Salasin
+- 🌱 currently developing improveg routing algorithm based on OSRM
 
 <!---
 SanielSchmidt/SanielSchmidt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
